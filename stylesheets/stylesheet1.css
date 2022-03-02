@@ -1,0 +1,14 @@
+.topr{
+    background-color:#000066;
+    float:right;
+    color:white;
+    padding:5px;
+    margin-top:-10px;
+    font-size:80%;
+    }
+.below{
+    float:right;
+    background-color:rgba(0,0,40,70%);padding:10px;
+    color:white;margin-left:162px;margin-top:10px;
+    width:962px;text-align:center;
+    }
